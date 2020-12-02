@@ -1,0 +1,274 @@
+
+
+time: Wed Dec  2 08:04:59 2020
+load single_section cptk file from model_data\Edge_baseline\35.cptk
+load multi_section cptk file from model_data\Cloud_baseline\test_best.cptk
+i: 0 collisions_rate: 0.0; control rate: 0.0
+
+
+time: Wed Dec  2 08:05:24 2020
+load single_section cptk file from model_data\Edge_baseline\35.cptk
+load multi_section cptk file from model_data\Cloud_baseline\test_best.cptk
+i: 0 collisions_rate: 0.0; control rate: 0.0
+i: 100 collisions_rate: 0.0; control rate: 0.9574468085106383
+i: 200 collisions_rate: 0.0; control rate: 0.6818181818181818
+i: 300 collisions_rate: 0.0; control rate: 0.5128205128205128
+i: 400 collisions_rate: 0.0; control rate: 0.37267080745341613
+i: 500 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 600 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 700 collisions_rate: 0.0; control rate: 0.3191489361702128
+i: 800 collisions_rate: 0.0; control rate: 0.29850746268656714
+i: 900 collisions_rate: 0.0; control rate: 0.3076923076923077
+i: 1000 collisions_rate: 0.0; control rate: 0.3
+i: 1100 collisions_rate: 0.0; control rate: 0.3
+i: 1200 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1300 collisions_rate: 0.0; control rate: 0.297029702970297
+i: 1400 collisions_rate: 0.0; control rate: 0.30303030303030304
+i: 1500 collisions_rate: 0.0; control rate: 0.297029702970297
+i: 1600 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1700 collisions_rate: 0.0; control rate: 0.2955665024630542
+i: 1800 collisions_rate: 0.0; control rate: 0.28708133971291866
+i: 1900 collisions_rate: 0.0; control rate: 0.3157894736842105
+i: 2000 collisions_rate: 0.0; control rate: 0.3157894736842105
+i: 2100 collisions_rate: 0.0; control rate: 0.31413612565445026
+i: 2200 collisions_rate: 0.0; control rate: 0.33707865168539325
+i: 2300 collisions_rate: 0.0; control rate: 0.3409090909090909
+i: 2400 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 2500 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2600 collisions_rate: 0.0; control rate: 0.3508771929824561
+i: 2700 collisions_rate: 0.0; control rate: 0.3508771929824561
+i: 2800 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 2900 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 3000 collisions_rate: 0.0; control rate: 0.33707865168539325
+i: 3100 collisions_rate: 0.0; control rate: 0.3468208092485549
+i: 3200 collisions_rate: 0.0; control rate: 0.33707865168539325
+i: 3300 collisions_rate: 0.0; control rate: 0.3314917127071823
+i: 3400 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 3500 collisions_rate: 0.0; control rate: 0.3191489361702128
+i: 3600 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 3700 collisions_rate: 0.0; control rate: 0.3409090909090909
+i: 3800 collisions_rate: 0.0; control rate: 0.35294117647058826
+i: 3900 collisions_rate: 0.0; control rate: 0.38961038961038963
+i: 4000 collisions_rate: 0.0; control rate: 0.3821656050955414
+i: 4100 collisions_rate: 0.0; control rate: 0.36809815950920244
+i: 4200 collisions_rate: 0.0; control rate: 0.33707865168539325
+i: 4300 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 4400 collisions_rate: 0.0; control rate: 0.28846153846153844
+i: 4500 collisions_rate: 0.0; control rate: 0.2764976958525346
+i: 4600 collisions_rate: 0.0; control rate: 0.27522935779816515
+i: 4700 collisions_rate: 0.0; control rate: 0.2843601895734597
+i: 4800 collisions_rate: 0.0; control rate: 0.27906976744186046
+i: 4900 collisions_rate: 0.0; control rate: 0.3
+i: 5000 collisions_rate: 0.0; control rate: 0.3125
+i: 5100 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 5200 collisions_rate: 0.0; control rate: 0.3389830508474576
+i: 5300 collisions_rate: 0.0; control rate: 0.3614457831325301
+i: 5400 collisions_rate: 0.0; control rate: 0.3592814371257485
+i: 5500 collisions_rate: 0.0; control rate: 0.3508771929824561
+i: 5600 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 5700 collisions_rate: 0.0; control rate: 0.3333333333333333
+i: 5800 collisions_rate: 0.0; control rate: 0.32608695652173914
+i: 5900 collisions_rate: 0.0; control rate: 0.32786885245901637
+vehicle number: 2344; collisions occurred number: 0; collisions rate: 0.0, time_mean: nan
+mat_path:arvTimeNewVeh_new_1200_multi3_3.mat; passed_veh num:2194; pT-m: 36.7372 s
+
+
+time: Wed Dec  2 08:07:27 2020
+load single_section cptk file from model_data\Edge_baseline\35.cptk
+load multi_section cptk file from model_data\Cloud_baseline\test_best.cptk
+i: 0 collisions_rate: 0.0; control rate: 0.0
+i: 100 collisions_rate: 0.0; control rate: 0.9574468085106383
+i: 200 collisions_rate: 0.0; control rate: 0.6818181818181818
+i: 300 collisions_rate: 0.0; control rate: 0.5128205128205128
+i: 400 collisions_rate: 0.0; control rate: 0.37267080745341613
+i: 500 collisions_rate: 0.0; control rate: 0.32432432432432434
+i: 600 collisions_rate: 0.0; control rate: 0.32432432432432434
+i: 700 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 800 collisions_rate: 0.0; control rate: 0.30303030303030304
+i: 900 collisions_rate: 0.0; control rate: 0.31088082901554404
+i: 1000 collisions_rate: 0.0; control rate: 0.3076923076923077
+i: 1100 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1200 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 1300 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 1400 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1500 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1600 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1700 collisions_rate: 0.0; control rate: 0.3
+i: 1800 collisions_rate: 0.0; control rate: 0.2955665024630542
+i: 1900 collisions_rate: 0.0; control rate: 0.3191489361702128
+i: 2000 collisions_rate: 0.0; control rate: 0.32432432432432434
+i: 2100 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 2200 collisions_rate: 0.0; control rate: 0.3409090909090909
+i: 2300 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2400 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 2500 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2600 collisions_rate: 0.0; control rate: 0.35502958579881655
+i: 2700 collisions_rate: 0.0; control rate: 0.3592814371257485
+i: 2800 collisions_rate: 0.0; control rate: 0.3614457831325301
+i: 2900 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 3000 collisions_rate: 0.0; control rate: 0.3468208092485549
+i: 3100 collisions_rate: 0.0; control rate: 0.3468208092485549
+i: 3200 collisions_rate: 0.0; control rate: 0.3409090909090909
+i: 3300 collisions_rate: 0.0; control rate: 0.3314917127071823
+i: 3400 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 3500 collisions_rate: 0.0; control rate: 0.32608695652173914
+i: 3600 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 3700 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3800 collisions_rate: 0.0; control rate: 0.3614457831325301
+i: 3900 collisions_rate: 0.0; control rate: 0.4
+i: 4000 collisions_rate: 0.0; control rate: 0.38961038961038963
+i: 4100 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 4200 collisions_rate: 0.0; control rate: 0.34285714285714286
+i: 4300 collisions_rate: 0.0; control rate: 0.32432432432432434
+i: 4400 collisions_rate: 0.0; control rate: 0.29411764705882354
+i: 4500 collisions_rate: 0.0; control rate: 0.2777777777777778
+i: 4600 collisions_rate: 0.0; control rate: 0.2830188679245283
+i: 4700 collisions_rate: 0.0; control rate: 0.28708133971291866
+i: 4800 collisions_rate: 0.0; control rate: 0.2830188679245283
+i: 4900 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 5000 collisions_rate: 0.0; control rate: 0.3157894736842105
+i: 5100 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 5200 collisions_rate: 0.0; control rate: 0.34285714285714286
+i: 5300 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 5400 collisions_rate: 0.0; control rate: 0.36585365853658536
+i: 5500 collisions_rate: 0.0; control rate: 0.3592814371257485
+i: 5600 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 5700 collisions_rate: 0.0; control rate: 0.3409090909090909
+i: 5800 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 5900 collisions_rate: 0.0; control rate: 0.3314917127071823
+vehicle number: 2344; collisions occurred number: 0; collisions rate: 0.0, time_mean: nan
+mat_path:arvTimeNewVeh_new_1200_multi3_3.mat; passed_veh num:2197; pT-m: 36.0592 s
+
+
+time: Wed Dec  2 08:09:29 2020
+load single_section cptk file from model_data\Edge_baseline\35.cptk
+load multi_section cptk file from model_data\Cloud_baseline\test_best.cptk
+i: 0 collisions_rate: 0.0; control rate: 0.0
+i: 100 collisions_rate: 0.0; control rate: 0.9574468085106383
+i: 200 collisions_rate: 0.0; control rate: 0.6818181818181818
+i: 300 collisions_rate: 0.0; control rate: 0.5128205128205128
+i: 400 collisions_rate: 0.0; control rate: 0.37267080745341613
+i: 500 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 600 collisions_rate: 0.0; control rate: 0.32608695652173914
+i: 700 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 800 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 900 collisions_rate: 0.0; control rate: 0.3125
+i: 1000 collisions_rate: 0.0; control rate: 0.3076923076923077
+i: 1100 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1200 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1300 collisions_rate: 0.0; control rate: 0.30456852791878175
+i: 1400 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1500 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 1600 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1700 collisions_rate: 0.0; control rate: 0.30303030303030304
+i: 1800 collisions_rate: 0.0; control rate: 0.29850746268656714
+i: 1900 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 2000 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 2100 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 2200 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2300 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2400 collisions_rate: 0.0; control rate: 0.32786885245901637
+i: 2500 collisions_rate: 0.0; control rate: 0.3508771929824561
+i: 2600 collisions_rate: 0.0; control rate: 0.35714285714285715
+i: 2700 collisions_rate: 0.0; control rate: 0.3614457831325301
+i: 2800 collisions_rate: 0.0; control rate: 0.375
+i: 2900 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 3000 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3100 collisions_rate: 0.0; control rate: 0.35294117647058826
+i: 3200 collisions_rate: 0.0; control rate: 0.34285714285714286
+i: 3300 collisions_rate: 0.0; control rate: 0.3314917127071823
+i: 3400 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 3500 collisions_rate: 0.0; control rate: 0.32786885245901637
+i: 3600 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 3700 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3800 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 3900 collisions_rate: 0.0; control rate: 0.4
+i: 4000 collisions_rate: 0.0; control rate: 0.39215686274509803
+i: 4100 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 4200 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 4300 collisions_rate: 0.0; control rate: 0.32608695652173914
+i: 4400 collisions_rate: 0.0; control rate: 0.2955665024630542
+i: 4500 collisions_rate: 0.0; control rate: 0.2777777777777778
+i: 4600 collisions_rate: 0.0; control rate: 0.2857142857142857
+i: 4700 collisions_rate: 0.0; control rate: 0.28846153846153844
+i: 4800 collisions_rate: 0.0; control rate: 0.2830188679245283
+i: 4900 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 5000 collisions_rate: 0.0; control rate: 0.3191489361702128
+i: 5100 collisions_rate: 0.0; control rate: 0.31746031746031744
+i: 5200 collisions_rate: 0.0; control rate: 0.3488372093023256
+i: 5300 collisions_rate: 0.0; control rate: 0.37735849056603776
+i: 5400 collisions_rate: 0.0; control rate: 0.36809815950920244
+i: 5500 collisions_rate: 0.0; control rate: 0.3614457831325301
+i: 5600 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 5700 collisions_rate: 0.0; control rate: 0.34285714285714286
+i: 5800 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 5900 collisions_rate: 0.0; control rate: 0.3314917127071823
+vehicle number: 2344; collisions occurred number: 0; collisions rate: 0.0, time_mean: nan
+mat_path:arvTimeNewVeh_new_1200_multi3_3.mat; passed_veh num:2198; pT-m: 35.8679 s
+
+
+time: Wed Dec  2 08:13:54 2020
+load single_section cptk file from model_data\Edge_baseline\test_best.cptk
+load multi_section cptk file from model_data\Cloud_baseline\test_best.cptk
+i: 0 collisions_rate: 0.0; control rate: 0.0
+i: 100 collisions_rate: 0.0; control rate: 0.9574468085106383
+i: 200 collisions_rate: 0.0; control rate: 0.6818181818181818
+i: 300 collisions_rate: 0.0; control rate: 0.5128205128205128
+i: 400 collisions_rate: 0.0; control rate: 0.37267080745341613
+i: 500 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 600 collisions_rate: 0.0; control rate: 0.32432432432432434
+i: 700 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 800 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 900 collisions_rate: 0.0; control rate: 0.3125
+i: 1000 collisions_rate: 0.0; control rate: 0.3076923076923077
+i: 1100 collisions_rate: 0.0; control rate: 0.31088082901554404
+i: 1200 collisions_rate: 0.0; control rate: 0.3076923076923077
+i: 1300 collisions_rate: 0.0; control rate: 0.30456852791878175
+i: 1400 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1500 collisions_rate: 0.0; control rate: 0.30612244897959184
+i: 1600 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 1700 collisions_rate: 0.0; control rate: 0.3015075376884422
+i: 1800 collisions_rate: 0.0; control rate: 0.29850746268656714
+i: 1900 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 2000 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 2100 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 2200 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2300 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 2400 collisions_rate: 0.0; control rate: 0.32786885245901637
+i: 2500 collisions_rate: 0.0; control rate: 0.3508771929824561
+i: 2600 collisions_rate: 0.0; control rate: 0.35714285714285715
+i: 2700 collisions_rate: 0.0; control rate: 0.36585365853658536
+i: 2800 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 2900 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 3000 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3100 collisions_rate: 0.0; control rate: 0.35502958579881655
+i: 3200 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3300 collisions_rate: 0.0; control rate: 0.3314917127071823
+i: 3400 collisions_rate: 0.0; control rate: 0.3225806451612903
+i: 3500 collisions_rate: 0.0; control rate: 0.32786885245901637
+i: 3600 collisions_rate: 0.0; control rate: 0.32967032967032966
+i: 3700 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 3800 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 3900 collisions_rate: 0.0; control rate: 0.4
+i: 4000 collisions_rate: 0.0; control rate: 0.38961038961038963
+i: 4100 collisions_rate: 0.0; control rate: 0.37037037037037035
+i: 4200 collisions_rate: 0.0; control rate: 0.3448275862068966
+i: 4300 collisions_rate: 0.0; control rate: 0.32608695652173914
+i: 4400 collisions_rate: 0.0; control rate: 0.2955665024630542
+i: 4500 collisions_rate: 0.0; control rate: 0.2777777777777778
+i: 4600 collisions_rate: 0.0; control rate: 0.2857142857142857
+i: 4700 collisions_rate: 0.0; control rate: 0.2898550724637681
+i: 4800 collisions_rate: 0.0; control rate: 0.28169014084507044
+i: 4900 collisions_rate: 0.0; control rate: 0.30927835051546393
+i: 5000 collisions_rate: 0.0; control rate: 0.3157894736842105
+i: 5100 collisions_rate: 0.0; control rate: 0.32085561497326204
+i: 5200 collisions_rate: 0.0; control rate: 0.3488372093023256
+i: 5300 collisions_rate: 0.0; control rate: 0.375
+i: 5400 collisions_rate: 0.0; control rate: 0.36585365853658536
+i: 5500 collisions_rate: 0.0; control rate: 0.35714285714285715
+i: 5600 collisions_rate: 0.0; control rate: 0.36363636363636365
+i: 5700 collisions_rate: 0.0; control rate: 0.34285714285714286
+i: 5800 collisions_rate: 0.0; control rate: 0.3314917127071823
+i: 5900 collisions_rate: 0.0; control rate: 0.3314917127071823
+vehicle number: 2344; collisions occurred number: 0; collisions rate: 0.0, time_mean: nan
+mat_path:arvTimeNewVeh_new_1200_multi3_3.mat; passed_veh num:2197; pT-m: 35.8543 s
