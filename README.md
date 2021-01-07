@@ -15,6 +15,8 @@ A Multi-intersection Vehicular Cooperative Control based on End-Edge-Cloud Compu
 - opencv-contrib-python==3.4.2.16
 - opencv-python==4.2.0.32
 - tensorflow==1.12.0
+- matplotlib==3.0.2
+- scipy==1.2.1 
 
 ## Getting Started
 ### Installation
