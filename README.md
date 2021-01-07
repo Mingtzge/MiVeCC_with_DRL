@@ -10,6 +10,11 @@ A Multi-intersection Vehicular Cooperative Control based on End-Edge-Cloud Compu
 - Python 3
 - matlab 2017b
 - CPU or NVIDIA GPU + CUDA CuDNN
+### python modules
+- numpy==1.16.2
+- opencv-contrib-python==3.4.2.16
+- opencv-python==4.2.0.32
+- tensorflow==1.12.0
 
 ## Getting Started
 ### Installation
